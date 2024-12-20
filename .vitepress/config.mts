@@ -23,10 +23,10 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/haveanidea-community' },
+      { icon: 'discord', link: 'https://discord.gg/HQXGpARVfJ' },
     ],
     footer: {
-      message: 'Use at your own risk , website are not liable for any losses.',
+      message: 'This is a learning experiment project. The site is not liable for any risks.',
       copyright: 'Copyright © 2024-present haveanidea.me'
     }
   }

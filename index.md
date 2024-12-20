@@ -10,8 +10,8 @@ hero:
     alt: VitePress
   actions:
       - theme: brand
-        text: Get Started
-        link: https://app.haveanidea.me/
+        text: GitHub
+        link: https://github.com/xiaokuige/app.haveanidea.me
 features:
   - title: 💰 Easy Participation
     details: "Anyone can participate in crowdfunding with small amounts of money to support projects they are interested in, promoting inclusive financing."
